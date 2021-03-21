@@ -1,4 +1,5 @@
 # PilotTelegramBot
+# DEPRECATED, THIS VERSION WILL BE NO LONGER MAINTAINED
 Telegram bot for chats with admin functions written on Python3  
 
 ## This bot has commands:
